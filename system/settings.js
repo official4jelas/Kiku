@@ -25,17 +25,17 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // Owner
 global.owner = [
-  ['-'],
-  ['-'],
-  ['628816609112', 'Takashi Kemii', 'contact@kemii.my.id', true]
+  ['6285766450735'],
+  ['6285766450735'],
+  ['6285766450735', 'Takashi', 'contact@kemii.my.id', true]
 ] // Put your number here
-global.mods = ['-'] // Moderator
-global.prems = ['-'] // Premium
+global.mods = ['6285766450735'] // Moderator
+global.prems = ['6285766450735'] // Premium
 global.rose = '-';
 global.xyro = '-';
-global.btc = '-';
+global.btc = 'btzofficial';
 global.xzn = '-';
-global.lolkey = '-';
+global.lolkey = '39c6cace29298993bedea62f';
 global.yanz = '-';
 global.zein = '-',
 global.APIs = {
